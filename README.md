@@ -4,6 +4,12 @@ Projet name: Quest 2: Surfing contest in Australia
 Date presented: 19.01.2023
 Project team: Erensu, Florian, Hanieh and Bartek
 
+Files delivered:
+
+- Presentation.pptx (project presentation in Power Point)
+- SharkAttack.ipynb (Jupyter file with code)
+- Shark_Attack_CSV.csv
+
 Project description: 
 We are an Australian surf equipment brand looking to organize a surfing competition within our country. 
 We are currently in the process of choosing a location and timeframe that ensures the safety of participants and facilitates a successful event.
@@ -21,11 +27,7 @@ Process:
 - cleaning relevent columns
 - visualization in Tablaeu and analysis
 
-Files delivered:
 
-- Presentation.pptx (project presentation in Power Point)
-- SharkAttack.ipynb (Jupyter file with code)
-- 
 
 
 
